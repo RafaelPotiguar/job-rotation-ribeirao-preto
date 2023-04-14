@@ -1,6 +1,6 @@
 # job-rotation-ribeirao-preto
 
-## Respostas das questões do teste para Estágio Análise e Desenvolvimento - São Paulo 
+## Respostas das questões do teste para Estágio Análise e Desenvolvimento - Ribeirão Preto 
 Abaixo seguem os links para as respostas das questões propostas.
 
 Código utilizado para resposta da pergunta 1. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/soma.js)
