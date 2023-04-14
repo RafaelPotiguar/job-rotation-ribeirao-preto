@@ -1,0 +1,42 @@
+Para resolver esse problema, precisamos primeiro determinar em que ponto da estrada os dois veículos se encontrarão. Sabemos que a distância entre as duas cidades é de 100 km, e os veículos estão se aproximando um do outro a uma taxa de 110 km/h + 80 km/h = 190 km/h. Portanto, o tempo necessário para eles se encontrarem é:
+
+tempo = distância / velocidade
+tempo = 100 km / 190 km/h
+tempo = 0,5263 horas = 31,58 minutos
+
+Agora, precisamos determinar a posição exata em que eles se encontram. Vamos supor que x seja a distância percorrida pelo carro a partir de Ribeirão Preto. Nesse caso, a distância percorrida pelo caminhão será de 100 km - x a partir de Franca. Sabemos que o tempo que leva para o carro chegar ao ponto de encontro é:
+
+tempo = distância / velocidade
+tempo = x / 110 km/h
+
+Já para o caminhão, o tempo que leva para chegar ao ponto de encontro será:
+
+tempo = distância / velocidade
+tempo = (100 km - x) / 80 km/h + 10 minutos
+
+O tempo extra de 10 minutos leva em consideração o tempo adicional que o caminhão leva para passar pelos dois pedágios.
+
+Igualando as duas equações de tempo, obtemos:
+
+x / 110 km/h = (100 km - x) / 80 km/h + 10 minutos
+
+Convertendo os 10 minutos em horas:
+
+10 minutos = 10 / 60 horas = 0,1667 horas
+
+Agora, podemos simplificar a equação acima e resolvê-la para x:
+
+x / 110 km/h = (100 km - x) / 80 km/h + 0,1667 horas
+x / 110 km/h - (100 km - x) / 80 km/h = 0,1667 horas
+
+Multiplicando ambos os lados da equação pelo denominador comum de 880 km/h:
+
+8x - 11(100 - x) = 14,67
+
+Simplificando e resolvendo para x, obtemos:
+
+8x - 1100 + 11x = 14,67 * 80
+19x = 926,6
+x = 48,77 km
+
+Portanto, o ponto de encontro está a 48,77 km de Ribeirão Preto e 51,23 km de Franca. Como o carro percorreu 48,77 km e o caminhão percorreu 51,23 km até o ponto de encontro, o carro estará mais próximo de Ribeirão Preto.
