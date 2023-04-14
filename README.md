@@ -7,8 +7,8 @@ Código utilizado para resposta da pergunta 1. [Link da solução](https://githu
 
 Código utilizado para resposta da pergunta 2. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/fibonacci.js)
 
-Código utilizado para resposta da pergunta 3. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/logica-elemento.txt)
+Resposta da pergunta 3. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/logica-elemento.txt)
 
-Código utilizado para resposta da pergunta 4. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/rodovia.txt)
+Resposta da pergunta 4. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/rodovia.txt)
 
 Código utilizado para resposta da pergunta 5. [Link da solução](https://github.com/RafaelPotiguar/job-rotation-ribeirao-preto/blob/main/inverte.js)
